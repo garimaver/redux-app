@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/redux-app/static/js/main.91e046d1.js",
+    "static/media/reebok_classic_leather.jpg": "/redux-app/static/media/reebok_classic_leather.6cfd0695c722207067f1.jpg",
+    "static/media/new_balance_574.jpg": "/redux-app/static/media/new_balance_574.0eebea5b07d29cbfd7f5.jpg",
+    "static/media/converse_chuck_taylor.jpg": "/redux-app/static/media/converse_chuck_taylor.9ab598f4c7fd4a13c262.jpg",
+    "static/media/asics_gel_kayano_27.jpg": "/redux-app/static/media/asics_gel_kayano_27.6033e4501c5af2767d28.jpg",
+    "static/media/puma_suede_classic.jpg": "/redux-app/static/media/puma_suede_classic.e62b068c2c9432b46c1f.jpg",
+    "static/media/fila_disruptor_ii.jpg": "/redux-app/static/media/fila_disruptor_ii.2f70feadeb55ef82f046.jpg",
+    "static/media/vans_old_skool.jpg": "/redux-app/static/media/vans_old_skool.61865301754bd89f8500.jpg",
+    "static/media/under_armour_hovr_phantom.jpg": "/redux-app/static/media/under_armour_hovr_phantom.01694d24a3f0ed5e86de.jpg",
+    "static/media/adidas_ultraboost.jpg": "/redux-app/static/media/adidas_ultraboost.4307284435a61a44702f.jpg",
+    "index.html": "/redux-app/index.html",
+    "main.91e046d1.js.map": "/redux-app/static/js/main.91e046d1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.91e046d1.js"
+  ]
+}
